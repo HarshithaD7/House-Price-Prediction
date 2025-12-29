@@ -21,8 +21,6 @@ Multiple regression models were trained and evaluated to identify the most accur
 - Target variable: **House Sale Price**
 - Validation-based evaluation approach
 
-> Due to file size limitations, only sample datasets are included in the repository.  
-> The full dataset is used directly within the Kaggle Notebook.
 
 ---
 
